@@ -1,0 +1,4 @@
+[submodule "Assets/NiceVibrations"]
+	path = Assets/NiceVibrations
+	url = https://github.com/iDreamsOfGame/NiceVibrations.git
+	branch = upm
