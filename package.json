@@ -1,0 +1,11 @@
+{
+	"name": "com.github.lofelt.nicevibrations",
+	"displayName": "Nice Vibrations",
+	"description": "Nice Vibrations is a simple yet powerful solution for adding high-definition (HD) haptic feedback to your iOS, Android, PC and console games with Unity.",
+	"version": "4.1.2",
+	"unity": "2018.3",
+	"author": {
+		"name": "Lofelt",
+		"url": "https://github.com/Lofelt"
+	}
+}
